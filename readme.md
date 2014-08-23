@@ -1,0 +1,1 @@
+This is the code for a tutorial on using [WordPress to create a newsletter](http://ericlbarnes.com/using-wordpress-create-newsletter/).
